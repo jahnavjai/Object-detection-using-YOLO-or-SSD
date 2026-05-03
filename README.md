@@ -148,7 +148,7 @@ Through this project, I gained hands-on experience in:
 
 ## Author
 
-**Kanak Sharma**
+**Jahnav Jaideep**
 
 ---
 
